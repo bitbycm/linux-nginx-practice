@@ -16,6 +16,8 @@ Ubuntu（WSL 2）環境でLinuxの基本操作を学び、Nginxを使ってHTML�
 - HTTPステータスコードの確認
 - Nginxのアクセスログ・エラーログの確認
 - Nginx設定ファイルの確認と構文チェック
+### 作成したファイル
+- [index.html](./index.html)：Ngiinxで配信した自作HTMLページ
 ### 動作確認に使用したコマンド  
 #### Nginxの稼働状態を確認
 ```bash
